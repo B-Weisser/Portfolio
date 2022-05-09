@@ -37,7 +37,9 @@ Skills and Tools: Exploratory Data Analysis (Variable Identification, Univariate
 ## SQL Projects
 
 ### Clean and prep Nashville Housing Data
+nashville.tsv is the data that comes with this project
 
 
 ### Analyze Covid Data
+covid_deaths.csv comes with this project. I couldn't upload covid_vax.csv, because the file was to big, but most analyzing was done on covid_deaths.
 
